@@ -1,0 +1,7 @@
+/home/jipei/projects/scala-tp/wordcount/src/main/java/hadoop/mapreduce/Main.java
+/home/jipei/projects/scala-tp/wordcount/src/main/java/hadoop/mapreduce/tp1/IntSumReducer.java
+/home/jipei/projects/scala-tp/wordcount/src/main/java/hadoop/mapreduce/tp1/StoreSales.java
+/home/jipei/projects/scala-tp/wordcount/src/main/java/hadoop/mapreduce/tp1/StoreSalesMapper.java
+/home/jipei/projects/scala-tp/wordcount/src/main/java/hadoop/mapreduce/tp1/StoreSalesReducer.java
+/home/jipei/projects/scala-tp/wordcount/src/main/java/hadoop/mapreduce/tp1/TokenizerMapper.java
+/home/jipei/projects/scala-tp/wordcount/src/main/java/hadoop/mapreduce/tp1/WordCount.java
